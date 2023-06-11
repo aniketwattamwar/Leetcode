@@ -7,3 +7,13 @@ for i in range(len(nums)):
         print('True')
     
 print("False")
+
+# curr = 1
+# for n in nums:
+#     curr = max(curr,n)
+#     curr-=1
+#     if curr < 0:
+#         return False
+    
+# return True
+
