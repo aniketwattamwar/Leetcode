@@ -9,7 +9,7 @@ ans = []
 length = len(words[0])
 l = 0
 r = len(words_str)
-while l < len(s) and r < len(s):
+while l < len(s) and r <= len(s):
 
     temp = []
     tempw = s[l:r]
