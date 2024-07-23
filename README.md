@@ -19,9 +19,14 @@ The py files are solved leetcode problems.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aniketwattamwar/Leetcode/tree/master/0155-min-stack) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aniketwattamwar/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
