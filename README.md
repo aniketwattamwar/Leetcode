@@ -7,6 +7,7 @@ The py files are solved leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -40,4 +41,8 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aniketwattamwar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
