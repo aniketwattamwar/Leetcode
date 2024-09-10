@@ -9,6 +9,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniketwattamwar/Leetcode/tree/master/0162-find-peak-element) |
+| [0518-coin-change-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0518-coin-change-ii) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -47,4 +48,8 @@ The py files are solved leetcode problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniketwattamwar/Leetcode/tree/master/0162-find-peak-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
