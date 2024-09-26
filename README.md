@@ -9,6 +9,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniketwattamwar/Leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/aniketwattamwar/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aniketwattamwar/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0518-coin-change-ii) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
@@ -52,6 +53,7 @@ The py files are solved leetcode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/aniketwattamwar/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aniketwattamwar/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0518-coin-change-ii) |
 ## Breadth-First Search
