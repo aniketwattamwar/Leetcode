@@ -61,5 +61,18 @@ The py files are solved leetcode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aniketwattamwar/Leetcode/tree/master/0322-coin-change) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
