@@ -36,6 +36,7 @@ The py files are solved leetcode problems.
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
 ## Stack
@@ -78,6 +79,7 @@ The py files are solved leetcode problems.
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ The py files are solved leetcode problems.
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -99,8 +102,13 @@ The py files are solved leetcode problems.
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
