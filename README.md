@@ -8,6 +8,7 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/aniketwattamwar/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/aniketwattamwar/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aniketwattamwar/Leetcode/tree/master/0322-coin-change) |
@@ -18,6 +19,7 @@ The py files are solved leetcode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
@@ -76,6 +78,7 @@ The py files are solved leetcode problems.
 | [0100-same-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aniketwattamwar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -105,6 +108,7 @@ The py files are solved leetcode problems.
 | [0100-same-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aniketwattamwar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -123,4 +127,8 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
