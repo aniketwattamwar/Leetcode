@@ -16,6 +16,7 @@ The py files are solved leetcode problems.
 | [0518-coin-change-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0518-coin-change-ii) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
+| [1127-last-stone-weight](https://github.com/aniketwattamwar/Leetcode/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/aniketwattamwar/Leetcode/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
