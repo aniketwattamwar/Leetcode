@@ -8,6 +8,7 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/aniketwattamwar/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/aniketwattamwar/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/aniketwattamwar/Leetcode/tree/master/0198-house-robber) |
@@ -169,4 +170,12 @@ The py files are solved leetcode problems.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aniketwattamwar/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aniketwattamwar/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
