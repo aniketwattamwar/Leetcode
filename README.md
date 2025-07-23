@@ -9,6 +9,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/aniketwattamwar/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/aniketwattamwar/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/aniketwattamwar/Leetcode/tree/master/0198-house-robber) |
@@ -96,6 +97,7 @@ The py files are solved leetcode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -134,6 +136,7 @@ The py files are solved leetcode problems.
 ## String Matching
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Divide and Conquer
 |  |
@@ -174,8 +177,13 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aniketwattamwar/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aniketwattamwar/Leetcode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
