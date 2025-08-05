@@ -25,6 +25,7 @@ The py files are solved leetcode problems.
 | [2169-simple-bank-system](https://github.com/aniketwattamwar/Leetcode/tree/master/2169-simple-bank-system) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/aniketwattamwar/Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2889-number-of-black-blocks](https://github.com/aniketwattamwar/Leetcode/tree/master/2889-number-of-black-blocks) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/aniketwattamwar/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ The py files are solved leetcode problems.
 | [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/aniketwattamwar/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +150,7 @@ The py files are solved leetcode problems.
 | [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aniketwattamwar/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/aniketwattamwar/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,4 +212,8 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [2889-number-of-black-blocks](https://github.com/aniketwattamwar/Leetcode/tree/master/2889-number-of-black-blocks) |
+## Rolling Hash
+|  |
+| ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/aniketwattamwar/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
