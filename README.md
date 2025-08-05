@@ -22,6 +22,7 @@ The py files are solved leetcode problems.
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/aniketwattamwar/Leetcode/tree/master/1127-last-stone-weight) |
+| [1972-rotating-the-box](https://github.com/aniketwattamwar/Leetcode/tree/master/1972-rotating-the-box) |
 | [2169-simple-bank-system](https://github.com/aniketwattamwar/Leetcode/tree/master/2169-simple-bank-system) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/aniketwattamwar/Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2889-number-of-black-blocks](https://github.com/aniketwattamwar/Leetcode/tree/master/2889-number-of-black-blocks) |
@@ -200,6 +201,7 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
+| [1972-rotating-the-box](https://github.com/aniketwattamwar/Leetcode/tree/master/1972-rotating-the-box) |
 ## Simulation
 |  |
 | ------- |
@@ -216,4 +218,8 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/aniketwattamwar/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+## Two Pointers
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/aniketwattamwar/Leetcode/tree/master/1972-rotating-the-box) |
 <!---LeetCode Topics End-->
