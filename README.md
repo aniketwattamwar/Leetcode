@@ -23,6 +23,7 @@ The py files are solved leetcode problems.
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/aniketwattamwar/Leetcode/tree/master/1127-last-stone-weight) |
 | [2169-simple-bank-system](https://github.com/aniketwattamwar/Leetcode/tree/master/2169-simple-bank-system) |
+| [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/aniketwattamwar/Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2889-number-of-black-blocks](https://github.com/aniketwattamwar/Leetcode/tree/master/2889-number-of-black-blocks) |
 ## Hash Table
 |  |
