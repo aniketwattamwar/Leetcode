@@ -23,6 +23,7 @@ The py files are solved leetcode problems.
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/aniketwattamwar/Leetcode/tree/master/1127-last-stone-weight) |
 | [2169-simple-bank-system](https://github.com/aniketwattamwar/Leetcode/tree/master/2169-simple-bank-system) |
+| [2889-number-of-black-blocks](https://github.com/aniketwattamwar/Leetcode/tree/master/2889-number-of-black-blocks) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ The py files are solved leetcode problems.
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
 | [2169-simple-bank-system](https://github.com/aniketwattamwar/Leetcode/tree/master/2169-simple-bank-system) |
+| [2889-number-of-black-blocks](https://github.com/aniketwattamwar/Leetcode/tree/master/2889-number-of-black-blocks) |
 ## Linked List
 |  |
 | ------- |
@@ -202,4 +204,8 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aniketwattamwar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Enumeration
+|  |
+| ------- |
+| [2889-number-of-black-blocks](https://github.com/aniketwattamwar/Leetcode/tree/master/2889-number-of-black-blocks) |
 <!---LeetCode Topics End-->
