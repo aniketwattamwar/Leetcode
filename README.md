@@ -95,6 +95,7 @@ The py files are solved leetcode problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aniketwattamwar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/aniketwattamwar/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aniketwattamwar/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
@@ -125,6 +126,7 @@ The py files are solved leetcode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aniketwattamwar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/aniketwattamwar/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aniketwattamwar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -254,4 +256,12 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aniketwattamwar/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aniketwattamwar/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
