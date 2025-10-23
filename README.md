@@ -37,6 +37,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniketwattamwar/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0146-lru-cache](https://github.com/aniketwattamwar/Leetcode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/aniketwattamwar/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aniketwattamwar/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -47,11 +48,13 @@ The py files are solved leetcode problems.
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aniketwattamwar/Leetcode/tree/master/0146-lru-cache) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aniketwattamwar/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aniketwattamwar/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aniketwattamwar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -264,4 +267,8 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aniketwattamwar/Leetcode/tree/master/0207-course-schedule) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aniketwattamwar/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
