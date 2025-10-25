@@ -23,6 +23,7 @@ The py files are solved leetcode problems.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -86,6 +87,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniketwattamwar/Leetcode/tree/master/0162-find-peak-element) |
+| [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1023-time-based-key-value-store](https://github.com/aniketwattamwar/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@ The py files are solved leetcode problems.
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aniketwattamwar/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Tree
 |  |
@@ -139,6 +142,7 @@ The py files are solved leetcode problems.
 | [0543-diameter-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -186,6 +190,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/aniketwattamwar/Leetcode/tree/master/1127-last-stone-weight) |
 ## Data Stream
@@ -232,6 +237,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1972-rotating-the-box](https://github.com/aniketwattamwar/Leetcode/tree/master/1972-rotating-the-box) |
 ## Simulation
 |  |
@@ -263,6 +269,7 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 ## Graph
 |  |
 | ------- |
