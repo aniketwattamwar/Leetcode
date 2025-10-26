@@ -28,6 +28,7 @@ The py files are solved leetcode problems.
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/aniketwattamwar/Leetcode/tree/master/1127-last-stone-weight) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/aniketwattamwar/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1972-rotating-the-box](https://github.com/aniketwattamwar/Leetcode/tree/master/1972-rotating-the-box) |
 | [2169-simple-bank-system](https://github.com/aniketwattamwar/Leetcode/tree/master/2169-simple-bank-system) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/aniketwattamwar/Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
@@ -96,6 +97,7 @@ The py files are solved leetcode problems.
 | [0198-house-robber](https://github.com/aniketwattamwar/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aniketwattamwar/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0518-coin-change-ii) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/aniketwattamwar/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -226,12 +228,14 @@ The py files are solved leetcode problems.
 | [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aniketwattamwar/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/aniketwattamwar/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aniketwattamwar/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/aniketwattamwar/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/aniketwattamwar/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 ## Matrix
 |  |
 | ------- |
@@ -282,4 +286,8 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aniketwattamwar/Leetcode/tree/master/0146-lru-cache) |
+## Bitmask
+|  |
+| ------- |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/aniketwattamwar/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 <!---LeetCode Topics End-->
