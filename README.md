@@ -30,6 +30,7 @@ The py files are solved leetcode problems.
 | [1127-last-stone-weight](https://github.com/aniketwattamwar/Leetcode/tree/master/1127-last-stone-weight) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/aniketwattamwar/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1972-rotating-the-box](https://github.com/aniketwattamwar/Leetcode/tree/master/1972-rotating-the-box) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/aniketwattamwar/Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2169-simple-bank-system](https://github.com/aniketwattamwar/Leetcode/tree/master/2169-simple-bank-system) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/aniketwattamwar/Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2889-number-of-black-blocks](https://github.com/aniketwattamwar/Leetcode/tree/master/2889-number-of-black-blocks) |
@@ -236,6 +237,7 @@ The py files are solved leetcode problems.
 | [0090-subsets-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aniketwattamwar/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/aniketwattamwar/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/aniketwattamwar/Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -286,6 +288,7 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aniketwattamwar/Leetcode/tree/master/0207-course-schedule) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/aniketwattamwar/Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
