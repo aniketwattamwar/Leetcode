@@ -7,33 +7,35 @@ class Solution:
         #                               2: [(1, 11), (3, 12)], 
         #                               3: [(2, 12), (1, 13)]})
 
-        visited = [0] * len(values)
+
+        # step 1: build the graph
         graph = defaultdict(list)
-        for u,v, time in edges:
+        visited = [0] * len(values)
+        for u, v, time in edges:
             graph[u].append((v,time))
             graph[v].append((u,time))
 
+        # step 2: dfs
         max_quality = 0
         def dfs(node, time, val):
             nonlocal max_quality
             if node == 0:
                 max_quality = max(max_quality, val)
+            
             for neighbor, curr_time in graph[node]:
 
                 if curr_time + time <= maxTime:
-                    new_val = 0 
+                    new_val = 0
                     if visited[neighbor] == 0:
                         new_val += values[neighbor]
-                    
-                    visited[neighbor]+=1
-                    dfs(neighbor, curr_time+time, val + new_val)
-                    visited[neighbor]-=1
-        
+
+                    visited[neighbor] += 1
+
+                    dfs(neighbor, curr_time + time, new_val + val)
+
+                    visited[neighbor] -= 1
+
         visited[0] = 1
         dfs(0,0,values[0])
+
         return max_quality
-
-
-
-
-
