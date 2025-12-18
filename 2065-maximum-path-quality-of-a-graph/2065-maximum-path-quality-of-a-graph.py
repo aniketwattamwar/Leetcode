@@ -24,8 +24,7 @@ class Solution:
                     new_val = 0 
                     if visited[neighbor] == 0:
                         new_val += values[neighbor]
-                    else:
-                        new_val+=0
+                    
                     visited[neighbor]+=1
                     dfs(neighbor, curr_time+time, val + new_val)
                     visited[neighbor]-=1
