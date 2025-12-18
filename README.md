@@ -61,6 +61,7 @@ The py files are solved leetcode problems.
 | [0146-lru-cache](https://github.com/aniketwattamwar/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aniketwattamwar/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aniketwattamwar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
@@ -194,6 +195,7 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -201,6 +203,7 @@ The py files are solved leetcode problems.
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Math
 |  |
@@ -214,6 +217,7 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -266,6 +270,7 @@ The py files are solved leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1972-rotating-the-box](https://github.com/aniketwattamwar/Leetcode/tree/master/1972-rotating-the-box) |
 ## Sliding Window
 |  |
