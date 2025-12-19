@@ -63,6 +63,7 @@ The py files are solved leetcode problems.
 | [0155-min-stack](https://github.com/aniketwattamwar/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aniketwattamwar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
@@ -111,6 +112,7 @@ The py files are solved leetcode problems.
 | [0199-binary-tree-right-side-view](https://github.com/aniketwattamwar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/aniketwattamwar/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aniketwattamwar/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -128,6 +130,7 @@ The py files are solved leetcode problems.
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aniketwattamwar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -145,6 +148,7 @@ The py files are solved leetcode problems.
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aniketwattamwar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
@@ -163,6 +167,7 @@ The py files are solved leetcode problems.
 | [0226-invert-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aniketwattamwar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -182,6 +187,7 @@ The py files are solved leetcode problems.
 | [0127-word-ladder](https://github.com/aniketwattamwar/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/aniketwattamwar/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/aniketwattamwar/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aniketwattamwar/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1023-time-based-key-value-store](https://github.com/aniketwattamwar/Leetcode/tree/master/1023-time-based-key-value-store) |
