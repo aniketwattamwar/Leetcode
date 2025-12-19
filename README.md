@@ -11,6 +11,7 @@ The py files are solved leetcode problems.
 | [0039-combination-sum](https://github.com/aniketwattamwar/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aniketwattamwar/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/aniketwattamwar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/aniketwattamwar/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aniketwattamwar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -97,6 +98,7 @@ The py files are solved leetcode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aniketwattamwar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/aniketwattamwar/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/aniketwattamwar/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aniketwattamwar/Leetcode/tree/master/0322-coin-change) |
@@ -195,6 +197,7 @@ The py files are solved leetcode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aniketwattamwar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
