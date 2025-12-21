@@ -25,6 +25,7 @@ The py files are solved leetcode problems.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
+| [0713-subarray-product-less-than-k](https://github.com/aniketwattamwar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
@@ -95,6 +96,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniketwattamwar/Leetcode/tree/master/0162-find-peak-element) |
+| [0713-subarray-product-less-than-k](https://github.com/aniketwattamwar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1023-time-based-key-value-store](https://github.com/aniketwattamwar/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
@@ -290,6 +292,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aniketwattamwar/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aniketwattamwar/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0713-subarray-product-less-than-k](https://github.com/aniketwattamwar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Union Find
 |  |
 | ------- |
@@ -316,4 +319,8 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/aniketwattamwar/Leetcode/tree/master/0284-peeking-iterator) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/aniketwattamwar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
