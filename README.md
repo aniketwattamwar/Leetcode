@@ -33,6 +33,7 @@ The py files are solved leetcode problems.
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/aniketwattamwar/Leetcode/tree/master/1127-last-stone-weight) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aniketwattamwar/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/aniketwattamwar/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1972-rotating-the-box](https://github.com/aniketwattamwar/Leetcode/tree/master/1972-rotating-the-box) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/aniketwattamwar/Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -98,6 +99,7 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aniketwattamwar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aniketwattamwar/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +232,7 @@ The py files are solved leetcode problems.
 | [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/aniketwattamwar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/aniketwattamwar/Leetcode/tree/master/1127-last-stone-weight) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aniketwattamwar/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Data Stream
 |  |
 | ------- |
@@ -313,6 +316,7 @@ The py files are solved leetcode problems.
 | [0187-repeated-dna-sequences](https://github.com/aniketwattamwar/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aniketwattamwar/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/aniketwattamwar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aniketwattamwar/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Union Find
 |  |
 | ------- |
@@ -356,4 +360,12 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aniketwattamwar/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aniketwattamwar/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aniketwattamwar/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
