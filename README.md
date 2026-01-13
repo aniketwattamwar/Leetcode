@@ -28,6 +28,7 @@ The py files are solved leetcode problems.
 | [0518-coin-change-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/aniketwattamwar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0752-open-the-lock](https://github.com/aniketwattamwar/Leetcode/tree/master/0752-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
@@ -53,6 +54,7 @@ The py files are solved leetcode problems.
 | [0347-top-k-frequent-elements](https://github.com/aniketwattamwar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aniketwattamwar/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0752-open-the-lock](https://github.com/aniketwattamwar/Leetcode/tree/master/0752-open-the-lock) |
 | [0816-design-hashset](https://github.com/aniketwattamwar/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aniketwattamwar/Leetcode/tree/master/0817-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/aniketwattamwar/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -132,6 +134,7 @@ The py files are solved leetcode problems.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aniketwattamwar/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/aniketwattamwar/Leetcode/tree/master/0695-max-area-of-island) |
+| [0752-open-the-lock](https://github.com/aniketwattamwar/Leetcode/tree/master/0752-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/aniketwattamwar/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Tree
@@ -211,6 +214,7 @@ The py files are solved leetcode problems.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aniketwattamwar/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/aniketwattamwar/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0752-open-the-lock](https://github.com/aniketwattamwar/Leetcode/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/aniketwattamwar/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/aniketwattamwar/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/aniketwattamwar/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
