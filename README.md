@@ -11,6 +11,7 @@ The py files are solved leetcode problems.
 | [0039-combination-sum](https://github.com/aniketwattamwar/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aniketwattamwar/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/aniketwattamwar/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aniketwattamwar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/aniketwattamwar/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
@@ -47,6 +48,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketwattamwar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniketwattamwar/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/aniketwattamwar/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniketwattamwar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/aniketwattamwar/Leetcode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/aniketwattamwar/Leetcode/tree/master/0146-lru-cache) |
@@ -206,6 +208,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketwattamwar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniketwattamwar/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/aniketwattamwar/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/aniketwattamwar/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/aniketwattamwar/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/aniketwattamwar/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -253,6 +256,7 @@ The py files are solved leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aniketwattamwar/Leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketwattamwar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aniketwattamwar/Leetcode/tree/master/0347-top-k-frequent-elements) |
