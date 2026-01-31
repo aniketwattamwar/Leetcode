@@ -4,11 +4,7 @@ class Solution:
         
         d = defaultdict(list)
         for word in strs:
-            temp = []
-            for ch in word:
-                temp.append(ch)
-            # print(temp)                
-            temp_sorted = tuple(sorted(temp))
+            temp_sorted = tuple(sorted(word))
             if d[temp_sorted]:
                 d[temp_sorted].append(word)
             else:
