@@ -4,35 +4,16 @@ class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         
         
-        freq = Counter(nums)
-        min_heap = []
+        d = Counter(nums)
 
-        for num, f in freq.items():
-            heapq.heappush(min_heap, (f,num))
-            if len(min_heap) > k:
-                heapq.heappop(min_heap)
-            
 
-        print(min_heap)
+        sorted_d = sorted(d.items(), key=lambda x: x[1], reverse=True)
+        print(sorted_d)
         ans = []
-        for i in range(len(min_heap)):
-            f,n = heapq.heappop(min_heap)
-            ans.append(n)
+        for i in range(k):
+            k,f = sorted_d[i]
+            print(sorted_d[i])
+            ans.append(k)
         return ans
-
-        # Got below soution on my own, but the max heap is a trap and the solution is NlogN
-        # freq = Counter(nums)
-        # print(freq)
-        # max_heap = []
-        # for num, f in freq.items():
-        #     heapq.heappush(max_heap, (-f, num))
-        # k_freq = []
-        # for i in range(k):
-        #     f, num = heapq.heappop(max_heap)
-        #     k_freq.append(num)
-
-        # return k_freq
-
-
 
 
