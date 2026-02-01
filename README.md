@@ -123,6 +123,7 @@ The py files are solved leetcode problems.
 | [0322-coin-change](https://github.com/aniketwattamwar/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/0518-coin-change-ii) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/aniketwattamwar/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aniketwattamwar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@ The py files are solved leetcode problems.
 | [0981-time-based-key-value-store](https://github.com/aniketwattamwar/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/aniketwattamwar/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aniketwattamwar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/aniketwattamwar/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Divide and Conquer
 |  |
@@ -319,6 +321,7 @@ The py files are solved leetcode problems.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aniketwattamwar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1972-rotating-the-box](https://github.com/aniketwattamwar/Leetcode/tree/master/1972-rotating-the-box) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aniketwattamwar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,4 +381,8 @@ The py files are solved leetcode problems.
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aniketwattamwar/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aniketwattamwar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
