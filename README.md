@@ -99,6 +99,7 @@ The py files are solved leetcode problems.
 | [0084-largest-rectangle-in-histogram](https://github.com/aniketwattamwar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/aniketwattamwar/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aniketwattamwar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Queue
 |  |
 | ------- |
@@ -220,6 +221,7 @@ The py files are solved leetcode problems.
 | [0752-open-the-lock](https://github.com/aniketwattamwar/Leetcode/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/aniketwattamwar/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/aniketwattamwar/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aniketwattamwar/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/aniketwattamwar/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Divide and Conquer
 |  |
